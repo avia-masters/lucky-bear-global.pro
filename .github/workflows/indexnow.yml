@@ -31,4 +31,4 @@ jobs:
         with:
           sitemap-location: 'https://lucky-bear-global.pro/sitemap.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
-          endpoint: 'yandex'
+          endpoint: 'https://yandex.com/indexnow'
