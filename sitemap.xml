@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/index.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/index.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/index.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/index.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/bonus.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/bonus.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/bonus.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/bonus.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/bonus.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/bonus.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/games.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/games.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/games.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/games.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/games.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/games.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/reviews.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/reviews.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/reviews.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/reviews.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/payments.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/payments.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/payments.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/payments.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/payments.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/payments.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/ru/support.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/support.html"/>
+  </url>
+
+  <url>
+    <loc>https://lucky-bear-global.pro/en/support.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lucky-bear-global.pro/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucky-bear-global.pro/en/support.html"/>
+  </url>
+
+</urlset>
