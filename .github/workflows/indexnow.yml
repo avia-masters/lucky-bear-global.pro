@@ -27,8 +27,14 @@ jobs:
           git push
 
       - name: Submit URLs to IndexNow
-        uses: bojieyang/indexnow-action@v1
-        with:
-          sitemap-location: 'https://lucky-bear-global.pro/sitemap.xml'
-          key: ${{ secrets.INDEXNOW_KEY }}
-          endpoint: 'https://yandex.com/indexnow'
+        run: |
+          curl -X POST "https://yandex.com/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{
+              "host": "lucky-bear-global.pro",
+              "key": "${{ secrets.INDEXNOW_KEY }}",
+              "keyLocation": "https://lucky-bear-global.pro/${{ secrets.INDEXNOW_KEY }}.txt",
+              "urlList": [
+                "https://lucky-bear-global.pro/"
+              ]
+            }'
