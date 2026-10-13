@@ -19,6 +19,7 @@ jobs:
           echo "${{ secrets.INDEXNOW_KEY }}" > ./${{ secrets.INDEXNOW_KEY }}.txt
 
       - name: Commit and push key file
+      continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
