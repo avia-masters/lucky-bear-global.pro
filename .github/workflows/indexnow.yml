@@ -14,18 +14,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create IndexNow key file
+      - name: Create IndexNow key file (local only)
         run: |
           echo "${{ secrets.INDEXNOW_KEY }}" > ./${{ secrets.INDEXNOW_KEY }}.txt
-
-      - name: Commit and push key file
-      continue-on-error: true
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./${{ secrets.INDEXNOW_KEY }}.txt
-          git commit -m "Add IndexNow key file" || echo "No changes to commit"
-          git push
 
       - name: Submit URLs to IndexNow
         run: |
